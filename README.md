@@ -1,6 +1,6 @@
-# AURORA: Agentic Rubric-Guided Iterative Survey Engine
+#ARISE: Agentic Rubric-Guided Iterative Survey Engine for Automated Scholarly Paper Generation
 
-AURORA is an agentic, rubric-guided system for **automated survey paper generation**.  
+ARISE is an agentic, rubric-guided system for **automated survey paper generation**.  
 It combines multi-agent writing, citation-aware retrieval, and rubric-based review loops to iteratively produce higher-quality, traceable, and reproducible survey drafts.
 
 ---
