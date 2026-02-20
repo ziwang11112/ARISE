@@ -1,7 +1,7 @@
 # ARISE: Agentic Rubric-guided Iterative Survey Engine for Automated Scholarly Paper Generation
 
 ARISE is an Agentic Rubric-guided Iterative Survey Engine for automated survey generation. It integrates citation-aware writing agents with a rubric-based evaluation loop to produce high-quality, self-improving survey papers.
-Paper link: https://arxiv.org/pdf/2511.17689
+
 ## 🌐 Project Highlights
 
 - **Agentic Writing System**: Decomposes survey writing into agent-driven phases for retrieval,  drafting, editing, and refinement.
